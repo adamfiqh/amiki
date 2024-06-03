@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Selamat datang di STMIK AMIKI",
-    "paragraph": "ini kampus IT dibanda Aceh yang paling tua"
+    "paragraph": "ini kampus IT dibanda Aceh yang cocok buat kamu yang ingin menambah ilmu IT"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -159,25 +159,15 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Akademik": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "Sistem Informasi",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "Manajemen Informatika",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
